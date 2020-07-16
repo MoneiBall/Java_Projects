@@ -1,3 +1,5 @@
 # Server-Client Applications
 
-## Parallel programming, Distribut systems
+## Parallel programming, Distributed systems
+
+Maintain simultaneous client-server interaction on specific domain and port
