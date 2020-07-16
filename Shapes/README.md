@@ -1,6 +1,6 @@
-#Inheritance
+# Inheritance
 
-Choose a point on the plane, and fill a collection with several regular shapes (circle, regular triangle, square, regular hexagon). How many shapes contain the given point? 
+## Choose a point on the plane, and fill a collection with several regular shapes (circle, ## regular triangle, square, regular hexagon). How many shapes contain the given point? 
 
 Each shape can be represented by its center and side length (or radius), if we assume that one
 side of the polygons are parallel with x axis, and its nodes lies on or above this side.
